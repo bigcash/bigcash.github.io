@@ -3,6 +3,8 @@ Xueming Hou
 
 Senior Algorithm Engineer
 
-Beijing Zhihui Rongsheng Technology Co., Ltd.
+Maimeng Technology (Hainan) Co., Ltd.
 
 houxueming@gmail.com
+
+xueming.hou@maimenggroup.com
